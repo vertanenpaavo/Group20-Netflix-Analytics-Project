@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b50"
+  },
+  "title": "My Story",
+  "content_type": "Movie",
+  "release_year": 1993,
+  "imdb_rating": 10,
+  "genres": [
+    "Horror"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b51"
+  },
+  "title": "Last Night",
+  "content_type": "Movie",
+  "release_year": 2000,
+  "imdb_rating": 10,
+  "genres": [
+    "Western",
+    "Biography"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b52"
+  },
+  "title": "Our Night",
+  "content_type": "Movie",
+  "release_year": 2015,
+  "imdb_rating": 10,
+  "genres": [
+    "History"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b53"
+  },
+  "title": "Dream Warrior",
+  "content_type": "Movie",
+  "release_year": 1998,
+  "imdb_rating": 10,
+  "genres": [
+    "Romance",
+    "Action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b54"
+  },
+  "title": "Storm Mystery",
+  "content_type": "Movie",
+  "release_year": 2019,
+  "imdb_rating": 10,
+  "genres": [
+    "Comedy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b55"
+  },
+  "title": "Story Warrior",
+  "content_type": "Movie",
+  "release_year": 1998,
+  "imdb_rating": 10,
+  "genres": [
+    "Music"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b56"
+  },
+  "title": "Bright War",
+  "content_type": "Movie",
+  "release_year": 1997,
+  "imdb_rating": 9.9,
+  "genres": [
+    "Crime",
+    "Sci-Fi"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b57"
+  },
+  "title": "City Queen",
+  "content_type": "Movie",
+  "release_year": 2020,
+  "imdb_rating": 9.7,
+  "genres": [
+    "History",
+    "Biography"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b58"
+  },
+  "title": "Love Fire",
+  "content_type": "Movie",
+  "release_year": 2022,
+  "imdb_rating": 9.5,
+  "genres": [
+    "Documentary"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69d3a37b6a18a0822e4a2b59"
+  },
+  "title": "Dragon Day",
+  "content_type": "Movie",
+  "release_year": 2005,
+  "imdb_rating": 9.5,
+  "genres": [
+    "Sport"
+  ]
+}]
